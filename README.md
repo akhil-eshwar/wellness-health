@@ -176,18 +176,15 @@ interface WellnessTip {
 ## 6. Known Issues / Improvements
 
 ### Current Limitations
-1. **API Key Exposure**: Frontend API key is visible in browser (client-side limitation)
-2. **No User Authentication**: No user accounts or cloud sync
-3. **Limited Error Recovery**: Basic error handling for API failures
-4. **No Offline Mode**: Requires internet connection for tip generation
+
+1 **No User Authentication**: No user accounts or cloud sync
+2. **Limited Error Recovery**: Basic error handling for API failures
+
 
 ### Planned Improvements
 1. **Backend Integration**: Move API calls to backend service for security
 2. **User Accounts**: Add authentication and cloud storage for favorites
-3. **Caching**: Implement tip caching to reduce API calls
-4. **Analytics**: Add usage tracking and tip effectiveness metrics
-5. **Content Moderation**: Add content filtering for generated tips
-6. **Accessibility**: Improve screen reader support and keyboard navigation
+
 
 ## 7. Bonus Work
 
@@ -199,7 +196,7 @@ interface WellnessTip {
 5. **Local Storage Persistence**: Favorites persist across browser sessions
 6. **Category Icons**: Visual categorization with emoji icons
 7. **Modern UI**: Gradient backgrounds and glassmorphism effects
-8. **Toast Notifications**: Success/error feedback for user actions
+
 
 ### Technical Polish
 - **TypeScript**: Full type safety throughout the application
@@ -211,8 +208,8 @@ interface WellnessTip {
 ---
 
 ## Tech Stack
-- **Frontend**: React 18, TypeScript, Vite
-- **Styling**: Tailwind CSS, CSS3 Animations
+- **Frontend**: React , TypeScript, Vite
+- **Styling**: Tailwind CSS
 - **Routing**: React Router DOM
 - **AI Integration**: OpenAI SDK with OpenRouter
 - **State Management**: React Context + Hooks

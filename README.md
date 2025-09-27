@@ -18,7 +18,7 @@ npm install && npm run dev
 
 ### Demo
 - **Local Development**: After running the setup commands, the app will be available at `http://localhost:5173`
-- **Hosted Demo**: [Add your deployed URL here when available]
+- **Hosted Demo**: [https://wellness-health-sable.vercel.app/](https://wellness-health-sable.vercel.app/)
 
 ### Environment Setup
 Before running the application, you need to set up environment variables:

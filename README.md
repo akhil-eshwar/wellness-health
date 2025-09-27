@@ -146,12 +146,32 @@ interface WellnessTip {
 ## 5. Screenshots / Screen Recording
 
 ### Application Screens
-1. **Profile Form**: User input for age, gender, and wellness goals
-2. **Tips List**: Grid display of personalized wellness tips
-3. **Tip Detail**: Detailed explanation with step-by-step advice
-4. **Favorites**: Saved tips with local persistence
 
-*[Screenshots to be added here]*
+#### 1. Profile Form
+![Profile Form](./src/assets/profile_page.jpg)
+*User input for age, gender, and wellness goals - Clean, intuitive form design*
+
+#### 2. Tips List
+![Tips List](./src/assets/tips.jpg)
+*Grid display of personalized wellness tips with categories and icons*
+
+#### 3. Tip Details
+![Tip Detail 1](./src/assets/tip_details_1.jpg)
+*Detailed explanation with comprehensive wellness advice*
+
+![Tip Detail 2](./src/assets/tip_details_2.jpg)
+*Step-by-step actionable advice tailored to user profile*
+
+#### 4. Favorites
+![Favorites](./src/assets/favorites.jpg)
+*Saved tips with local persistence - Easy access to preferred wellness advice*
+
+### Key UI Features Demonstrated
+- **Modern Design**: Clean, gradient-based interface with card layouts
+- **Responsive Layout**: Mobile-first design that works across devices  
+- **Visual Hierarchy**: Clear typography and spacing for easy reading
+- **Interactive Elements**: Hover effects and smooth transitions
+- **Category Organization**: Color-coded wellness categories with emoji icons
 
 ## 6. Known Issues / Improvements
 
